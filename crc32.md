@@ -13,4 +13,4 @@ v1.0 | LuaJIT 2
 -----------------------------------------
 
 ----
-*See also:* [zlib.crc32()](zlib.html#crc32)
+See also: [zlib.crc32()](zlib.html#crc32)
