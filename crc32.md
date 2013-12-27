@@ -1,5 +1,5 @@
 ---
-project: CRC-32
+project: crc32
 tagline: CRC-32 in Lua
 ---
 
