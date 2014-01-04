@@ -1,6 +1,7 @@
 ---
-project: crc32
-tagline: CRC-32 in Lua
+project:     crc32
+tagline:     CRC-32 in Lua
+category:    Hashing
 ---
 
 v1.0 | LuaJIT 2
