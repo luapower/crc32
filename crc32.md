@@ -1,7 +1,6 @@
 ---
 project:     crc32
 tagline:     CRC-32 in Lua
-category:    Hashing
 ---
 
 ## `local crc32 = require'crc32'`
