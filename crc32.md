@@ -1,6 +1,6 @@
 ---
-project:     crc32
-tagline:     CRC-32 in Lua
+project: crc32
+tagline: CRC-32 in Lua
 ---
 
 ## `local crc32 = require'crc32'`
