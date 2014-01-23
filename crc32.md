@@ -10,5 +10,4 @@ tagline: CRC-32 in Lua
 `crc32(cdata, [size][, seed]) -> sum`
 -----------------------------------------
 
-----
 See also: [zlib.crc32()](zlib.html#crc32)
